@@ -1,0 +1,1586 @@
+CiudadOrigen,CiudadDestino,Distancia
+Aguascalientes,Zacatecas,100
+Aguascalientes,Guadalajara,100
+Aguascalientes,Durango,200
+Aguascalientes,San Luis Potosi,200
+Aguascalientes,Culiacan,300
+Aguascalientes,Ciudad Victoria,300
+Aguascalientes,La Paz,400
+Aguascalientes,Tepic,400
+Aguascalientes,Hermosillo,400
+Aguascalientes,Monterrey,400
+Aguascalientes,Mexicali,500
+Aguascalientes,Guadalajara,500
+Aguascalientes,Chihuahua,500
+Aguascalientes,Saltillo,500
+Aguascalientes,Colima,600
+Aguascalientes,Guanajuato,600
+Aguascalientes,Morelia,600
+Aguascalientes,Queretaro,700
+Aguascalientes,Chilpancingo,700
+Aguascalientes,Pachuca,800
+Aguascalientes,Oaxaca,800
+Aguascalientes,Cuernavaca,800
+Aguascalientes,Toluca,900
+Aguascalientes,Tlaxcala,900
+Aguascalientes,Tuxtla Gutierrez,900
+Aguascalientes,Puebla,900
+Aguascalientes,Ciudad de Mexico,900
+Aguascalientes,Villahermosa,1000
+Aguascalientes,Xalapa,1000
+Aguascalientes,Campeche,1100
+Aguascalientes,Merida,1200
+Aguascalientes,Chetumal,1200
+Zacatecas,Aguascalientes,100
+Zacatecas,Durango,100
+Zacatecas,San Luis Potosi,100
+Zacatecas,Guadalajara,200
+Zacatecas,Culiacan,200
+Zacatecas,Ciudad Victoria,200
+Zacatecas,La Paz,300
+Zacatecas,Tepic,300
+Zacatecas,Hermosillo,300
+Zacatecas,Monterrey,300
+Zacatecas,Mexicali,400
+Zacatecas,Guadalajara,400
+Zacatecas,Chihuahua,400
+Zacatecas,Saltillo,400
+Zacatecas,Colima,500
+Zacatecas,Guanajuato,500
+Zacatecas,Morelia,500
+Zacatecas,Queretaro,600
+Zacatecas,Chilpancingo,600
+Zacatecas,Pachuca,700
+Zacatecas,Oaxaca,700
+Zacatecas,Cuernavaca,700
+Zacatecas,Toluca,800
+Zacatecas,Tlaxcala,800
+Zacatecas,Tuxtla Gutierrez,800
+Zacatecas,Puebla,800
+Zacatecas,Ciudad de Mexico,800
+Zacatecas,Villahermosa,900
+Zacatecas,Xalapa,900
+Zacatecas,Campeche,1000
+Zacatecas,Merida,1100
+Zacatecas,Chetumal,1100
+Guadalajara,Aguascalientes,100
+Guadalajara,Zacatecas,200
+Guadalajara,Durango,300
+Guadalajara,San Luis Potosi,300
+Guadalajara,Culiacan,400
+Guadalajara,Ciudad Victoria,400
+Guadalajara,La Paz,500
+Guadalajara,Tepic,500
+Guadalajara,Hermosillo,500
+Guadalajara,Monterrey,500
+Guadalajara,Mexicali,600
+Guadalajara,Guadalajara,600
+Guadalajara,Chihuahua,600
+Guadalajara,Saltillo,600
+Guadalajara,Colima,700
+Guadalajara,Guanajuato,700
+Guadalajara,Morelia,700
+Guadalajara,Queretaro,800
+Guadalajara,Chilpancingo,800
+Guadalajara,Pachuca,900
+Guadalajara,Oaxaca,900
+Guadalajara,Cuernavaca,900
+Guadalajara,Toluca,1000
+Guadalajara,Tlaxcala,1000
+Guadalajara,Tuxtla Gutierrez,1000
+Guadalajara,Puebla,1000
+Guadalajara,Ciudad de Mexico,1000
+Guadalajara,Villahermosa,1100
+Guadalajara,Xalapa,1100
+Guadalajara,Campeche,1200
+Guadalajara,Merida,1300
+Guadalajara,Chetumal,1300
+Mexicali,Hermosillo,100
+Mexicali,La Paz,100
+Mexicali,Chihuahua,200
+Mexicali,Culiacan,200
+Mexicali,Saltillo,300
+Mexicali,Durango,300
+Mexicali,Tepic,300
+Mexicali,Monterrey,400
+Mexicali,Zacatecas,400
+Mexicali,Guadalajara,400
+Mexicali,Ciudad Victoria,500
+Mexicali,Aguascalientes,500
+Mexicali,San Luis Potosi,500
+Mexicali,Colima,500
+Mexicali,Guanajuato,500
+Mexicali,Morelia,500
+Mexicali,Guadalajara,600
+Mexicali,Queretaro,600
+Mexicali,Chilpancingo,600
+Mexicali,Pachuca,700
+Mexicali,Oaxaca,700
+Mexicali,Cuernavaca,700
+Mexicali,Toluca,800
+Mexicali,Tlaxcala,800
+Mexicali,Tuxtla Gutierrez,800
+Mexicali,Puebla,800
+Mexicali,Ciudad de Mexico,800
+Mexicali,Villahermosa,900
+Mexicali,Xalapa,900
+Mexicali,Campeche,1000
+Mexicali,Merida,1100
+Mexicali,Chetumal,1100
+Hermosillo,Mexicali,100
+Hermosillo,Chihuahua,100
+Hermosillo,Culiacan,100
+Hermosillo,La Paz,200
+Hermosillo,Saltillo,200
+Hermosillo,Durango,200
+Hermosillo,Tepic,200
+Hermosillo,Monterrey,300
+Hermosillo,Zacatecas,300
+Hermosillo,Guadalajara,300
+Hermosillo,Ciudad Victoria,400
+Hermosillo,Aguascalientes,400
+Hermosillo,San Luis Potosi,400
+Hermosillo,Colima,400
+Hermosillo,Guanajuato,400
+Hermosillo,Morelia,400
+Hermosillo,Guadalajara,500
+Hermosillo,Queretaro,500
+Hermosillo,Chilpancingo,500
+Hermosillo,Pachuca,600
+Hermosillo,Oaxaca,600
+Hermosillo,Cuernavaca,600
+Hermosillo,Toluca,700
+Hermosillo,Tlaxcala,700
+Hermosillo,Tuxtla Gutierrez,700
+Hermosillo,Puebla,700
+Hermosillo,Ciudad de Mexico,700
+Hermosillo,Villahermosa,800
+Hermosillo,Xalapa,800
+Hermosillo,Campeche,900
+Hermosillo,Merida,1000
+Hermosillo,Chetumal,1000
+La Paz,Mexicali,100
+La Paz,Culiacan,100
+La Paz,Hermosillo,200
+La Paz,Durango,200
+La Paz,Tepic,200
+La Paz,Chihuahua,300
+La Paz,Zacatecas,300
+La Paz,Guadalajara,300
+La Paz,Saltillo,400
+La Paz,Aguascalientes,400
+La Paz,San Luis Potosi,400
+La Paz,Colima,400
+La Paz,Guanajuato,400
+La Paz,Morelia,400
+La Paz,Monterrey,500
+La Paz,Guadalajara,500
+La Paz,Ciudad Victoria,500
+La Paz,Queretaro,500
+La Paz,Chilpancingo,500
+La Paz,Pachuca,600
+La Paz,Oaxaca,600
+La Paz,Cuernavaca,600
+La Paz,Toluca,700
+La Paz,Tlaxcala,700
+La Paz,Tuxtla Gutierrez,700
+La Paz,Puebla,700
+La Paz,Ciudad de Mexico,700
+La Paz,Villahermosa,800
+La Paz,Xalapa,800
+La Paz,Campeche,900
+La Paz,Merida,1000
+La Paz,Chetumal,1000
+Culiacan,La Paz,100
+Culiacan,Durango,100
+Culiacan,Tepic,100
+Culiacan,Hermosillo,100
+Culiacan,Mexicali,200
+Culiacan,Zacatecas,200
+Culiacan,Guadalajara,200
+Culiacan,Chihuahua,200
+Culiacan,Aguascalientes,300
+Culiacan,San Luis Potosi,300
+Culiacan,Colima,300
+Culiacan,Guanajuato,300
+Culiacan,Morelia,300
+Culiacan,Saltillo,300
+Culiacan,Guadalajara,400
+Culiacan,Ciudad Victoria,400
+Culiacan,Queretaro,400
+Culiacan,Chilpancingo,400
+Culiacan,Monterrey,400
+Culiacan,Pachuca,500
+Culiacan,Oaxaca,500
+Culiacan,Cuernavaca,500
+Culiacan,Toluca,600
+Culiacan,Tlaxcala,600
+Culiacan,Tuxtla Gutierrez,600
+Culiacan,Puebla,600
+Culiacan,Ciudad de Mexico,600
+Culiacan,Villahermosa,700
+Culiacan,Xalapa,700
+Culiacan,Campeche,800
+Culiacan,Merida,900
+Culiacan,Chetumal,900
+Campeche,Merida,100
+Campeche,Villahermosa,100
+Campeche,Chetumal,100
+Campeche,Tuxtla Gutierrez,200
+Campeche,Xalapa,200
+Campeche,Oaxaca,300
+Campeche,Puebla,300
+Campeche,Chilpancingo,400
+Campeche,Tlaxcala,400
+Campeche,Morelia,500
+Campeche,Cuernavaca,500
+Campeche,Pachuca,500
+Campeche,Colima,600
+Campeche,Guadalajara,600
+Campeche,Ciudad de Mexico,600
+Campeche,Queretaro,600
+Campeche,Toluca,600
+Campeche,Guanajuato,700
+Campeche,Tepic,700
+Campeche,Culiacan,800
+Campeche,La Paz,900
+Campeche,Durango,900
+Campeche,Hermosillo,900
+Campeche,Mexicali,1000
+Campeche,Zacatecas,1000
+Campeche,Chihuahua,1000
+Campeche,Aguascalientes,1100
+Campeche,San Luis Potosi,1100
+Campeche,Saltillo,1100
+Campeche,Guadalajara,1200
+Campeche,Ciudad Victoria,1200
+Campeche,Monterrey,1200
+Merida,Campeche,100
+Merida,Chetumal,100
+Merida,Villahermosa,200
+Merida,Tuxtla Gutierrez,300
+Merida,Xalapa,300
+Merida,Oaxaca,400
+Merida,Puebla,400
+Merida,Chilpancingo,500
+Merida,Tlaxcala,500
+Merida,Morelia,600
+Merida,Cuernavaca,600
+Merida,Pachuca,600
+Merida,Colima,700
+Merida,Guadalajara,700
+Merida,Ciudad de Mexico,700
+Merida,Queretaro,700
+Merida,Toluca,700
+Merida,Guanajuato,800
+Merida,Tepic,800
+Merida,Culiacan,900
+Merida,La Paz,1000
+Merida,Durango,1000
+Merida,Hermosillo,1000
+Merida,Mexicali,1100
+Merida,Zacatecas,1100
+Merida,Chihuahua,1100
+Merida,Aguascalientes,1200
+Merida,San Luis Potosi,1200
+Merida,Saltillo,1200
+Merida,Guadalajara,1300
+Merida,Ciudad Victoria,1300
+Merida,Monterrey,1300
+Villahermosa,Campeche,100
+Villahermosa,Tuxtla Gutierrez,100
+Villahermosa,Xalapa,100
+Villahermosa,Merida,200
+Villahermosa,Chetumal,200
+Villahermosa,Oaxaca,200
+Villahermosa,Puebla,200
+Villahermosa,Chilpancingo,300
+Villahermosa,Tlaxcala,300
+Villahermosa,Morelia,400
+Villahermosa,Cuernavaca,400
+Villahermosa,Pachuca,400
+Villahermosa,Colima,500
+Villahermosa,Guadalajara,500
+Villahermosa,Ciudad de Mexico,500
+Villahermosa,Queretaro,500
+Villahermosa,Toluca,500
+Villahermosa,Guanajuato,600
+Villahermosa,Tepic,600
+Villahermosa,Culiacan,700
+Villahermosa,La Paz,800
+Villahermosa,Durango,800
+Villahermosa,Hermosillo,800
+Villahermosa,Mexicali,900
+Villahermosa,Zacatecas,900
+Villahermosa,Chihuahua,900
+Villahermosa,Aguascalientes,1000
+Villahermosa,San Luis Potosi,1000
+Villahermosa,Saltillo,1000
+Villahermosa,Guadalajara,1100
+Villahermosa,Ciudad Victoria,1100
+Villahermosa,Monterrey,1100
+Tuxtla Gutierrez,Oaxaca,100
+Tuxtla Gutierrez,Villahermosa,100
+Tuxtla Gutierrez,Chilpancingo,200
+Tuxtla Gutierrez,Puebla,200
+Tuxtla Gutierrez,Campeche,200
+Tuxtla Gutierrez,Xalapa,200
+Tuxtla Gutierrez,Morelia,300
+Tuxtla Gutierrez,Cuernavaca,300
+Tuxtla Gutierrez,Tlaxcala,300
+Tuxtla Gutierrez,Merida,300
+Tuxtla Gutierrez,Chetumal,300
+Tuxtla Gutierrez,Colima,400
+Tuxtla Gutierrez,Guadalajara,400
+Tuxtla Gutierrez,Ciudad de Mexico,400
+Tuxtla Gutierrez,Pachuca,400
+Tuxtla Gutierrez,Guanajuato,500
+Tuxtla Gutierrez,Tepic,500
+Tuxtla Gutierrez,Toluca,500
+Tuxtla Gutierrez,Queretaro,500
+Tuxtla Gutierrez,Culiacan,600
+Tuxtla Gutierrez,La Paz,700
+Tuxtla Gutierrez,Durango,700
+Tuxtla Gutierrez,Hermosillo,700
+Tuxtla Gutierrez,Mexicali,800
+Tuxtla Gutierrez,Zacatecas,800
+Tuxtla Gutierrez,Chihuahua,800
+Tuxtla Gutierrez,Aguascalientes,900
+Tuxtla Gutierrez,San Luis Potosi,900
+Tuxtla Gutierrez,Saltillo,900
+Tuxtla Gutierrez,Guadalajara,1000
+Tuxtla Gutierrez,Ciudad Victoria,1000
+Tuxtla Gutierrez,Monterrey,1000
+Oaxaca,Tuxtla Gutierrez,100
+Oaxaca,Chilpancingo,100
+Oaxaca,Puebla,100
+Oaxaca,Villahermosa,200
+Oaxaca,Morelia,200
+Oaxaca,Cuernavaca,200
+Oaxaca,Tlaxcala,200
+Oaxaca,Xalapa,200
+Oaxaca,Campeche,300
+Oaxaca,Colima,300
+Oaxaca,Guadalajara,300
+Oaxaca,Ciudad de Mexico,300
+Oaxaca,Pachuca,300
+Oaxaca,Merida,400
+Oaxaca,Chetumal,400
+Oaxaca,Guanajuato,400
+Oaxaca,Tepic,400
+Oaxaca,Toluca,400
+Oaxaca,Queretaro,400
+Oaxaca,Culiacan,500
+Oaxaca,La Paz,600
+Oaxaca,Durango,600
+Oaxaca,Hermosillo,600
+Oaxaca,Mexicali,700
+Oaxaca,Zacatecas,700
+Oaxaca,Chihuahua,700
+Oaxaca,Aguascalientes,800
+Oaxaca,San Luis Potosi,800
+Oaxaca,Saltillo,800
+Oaxaca,Guadalajara,900
+Oaxaca,Ciudad Victoria,900
+Oaxaca,Monterrey,900
+Chihuahua,Hermosillo,100
+Chihuahua,Saltillo,100
+Chihuahua,Mexicali,200
+Chihuahua,Culiacan,200
+Chihuahua,Monterrey,200
+Chihuahua,La Paz,300
+Chihuahua,Durango,300
+Chihuahua,Tepic,300
+Chihuahua,Ciudad Victoria,300
+Chihuahua,Zacatecas,400
+Chihuahua,Guadalajara,400
+Chihuahua,San Luis Potosi,400
+Chihuahua,Aguascalientes,500
+Chihuahua,Colima,500
+Chihuahua,Guanajuato,500
+Chihuahua,Morelia,500
+Chihuahua,Guadalajara,600
+Chihuahua,Queretaro,600
+Chihuahua,Chilpancingo,600
+Chihuahua,Pachuca,700
+Chihuahua,Oaxaca,700
+Chihuahua,Cuernavaca,700
+Chihuahua,Toluca,800
+Chihuahua,Tlaxcala,800
+Chihuahua,Tuxtla Gutierrez,800
+Chihuahua,Puebla,800
+Chihuahua,Ciudad de Mexico,800
+Chihuahua,Villahermosa,900
+Chihuahua,Xalapa,900
+Chihuahua,Campeche,1000
+Chihuahua,Merida,1100
+Chihuahua,Chetumal,1100
+Saltillo,Chihuahua,100
+Saltillo,Monterrey,100
+Saltillo,Hermosillo,200
+Saltillo,Ciudad Victoria,200
+Saltillo,Mexicali,300
+Saltillo,Culiacan,300
+Saltillo,San Luis Potosi,300
+Saltillo,La Paz,400
+Saltillo,Durango,400
+Saltillo,Tepic,400
+Saltillo,Zacatecas,400
+Saltillo,Guadalajara,500
+Saltillo,Aguascalientes,500
+Saltillo,Colima,600
+Saltillo,Guanajuato,600
+Saltillo,Morelia,600
+Saltillo,Guadalajara,600
+Saltillo,Queretaro,700
+Saltillo,Chilpancingo,700
+Saltillo,Pachuca,800
+Saltillo,Oaxaca,800
+Saltillo,Cuernavaca,800
+Saltillo,Toluca,900
+Saltillo,Tlaxcala,900
+Saltillo,Tuxtla Gutierrez,900
+Saltillo,Puebla,900
+Saltillo,Ciudad de Mexico,900
+Saltillo,Villahermosa,1000
+Saltillo,Xalapa,1000
+Saltillo,Campeche,1100
+Saltillo,Merida,1200
+Saltillo,Chetumal,1200
+Monterrey,Saltillo,100
+Monterrey,Ciudad Victoria,100
+Monterrey,Chihuahua,200
+Monterrey,San Luis Potosi,200
+Monterrey,Hermosillo,300
+Monterrey,Zacatecas,300
+Monterrey,Mexicali,400
+Monterrey,Culiacan,400
+Monterrey,Aguascalientes,400
+Monterrey,Durango,400
+Monterrey,La Paz,500
+Monterrey,Tepic,500
+Monterrey,Guadalajara,500
+Monterrey,Guadalajara,600
+Monterrey,Colima,700
+Monterrey,Guanajuato,700
+Monterrey,Morelia,700
+Monterrey,Queretaro,800
+Monterrey,Chilpancingo,800
+Monterrey,Pachuca,900
+Monterrey,Oaxaca,900
+Monterrey,Cuernavaca,900
+Monterrey,Toluca,1000
+Monterrey,Tlaxcala,1000
+Monterrey,Tuxtla Gutierrez,1000
+Monterrey,Puebla,1000
+Monterrey,Ciudad de Mexico,1000
+Monterrey,Villahermosa,1100
+Monterrey,Xalapa,1100
+Monterrey,Campeche,1200
+Monterrey,Merida,1300
+Monterrey,Chetumal,1300
+Colima,Guadalajara,100
+Colima,Morelia,100
+Colima,Guanajuato,200
+Colima,Tepic,200
+Colima,Chilpancingo,200
+Colima,Queretaro,300
+Colima,Culiacan,300
+Colima,Oaxaca,300
+Colima,Cuernavaca,300
+Colima,Pachuca,400
+Colima,La Paz,400
+Colima,Durango,400
+Colima,Hermosillo,400
+Colima,Tuxtla Gutierrez,400
+Colima,Puebla,400
+Colima,Ciudad de Mexico,400
+Colima,Toluca,500
+Colima,Tlaxcala,500
+Colima,Mexicali,500
+Colima,Zacatecas,500
+Colima,Chihuahua,500
+Colima,Villahermosa,500
+Colima,Xalapa,500
+Colima,Aguascalientes,600
+Colima,San Luis Potosi,600
+Colima,Saltillo,600
+Colima,Campeche,600
+Colima,Guadalajara,700
+Colima,Ciudad Victoria,700
+Colima,Monterrey,700
+Colima,Merida,700
+Colima,Chetumal,700
+Guadalajara,Colima,100
+Guadalajara,Guanajuato,100
+Guadalajara,Morelia,100
+Guadalajara,Tepic,100
+Guadalajara,Queretaro,200
+Guadalajara,Chilpancingo,200
+Guadalajara,Culiacan,200
+Guadalajara,Pachuca,300
+Guadalajara,Oaxaca,300
+Guadalajara,Cuernavaca,300
+Guadalajara,La Paz,300
+Guadalajara,Durango,300
+Guadalajara,Hermosillo,300
+Guadalajara,Toluca,400
+Guadalajara,Tlaxcala,400
+Guadalajara,Tuxtla Gutierrez,400
+Guadalajara,Puebla,400
+Guadalajara,Ciudad de Mexico,400
+Guadalajara,Mexicali,400
+Guadalajara,Zacatecas,400
+Guadalajara,Chihuahua,400
+Guadalajara,Villahermosa,500
+Guadalajara,Xalapa,500
+Guadalajara,Aguascalientes,500
+Guadalajara,San Luis Potosi,500
+Guadalajara,Saltillo,500
+Guadalajara,Campeche,600
+Guadalajara,Guadalajara,600
+Guadalajara,Ciudad Victoria,600
+Guadalajara,Monterrey,600
+Guadalajara,Merida,700
+Guadalajara,Chetumal,700
+Morelia,Colima,100
+Morelia,Chilpancingo,100
+Morelia,Guadalajara,100
+Morelia,Oaxaca,200
+Morelia,Cuernavaca,200
+Morelia,Guanajuato,200
+Morelia,Tepic,200
+Morelia,Tuxtla Gutierrez,300
+Morelia,Puebla,300
+Morelia,Ciudad de Mexico,300
+Morelia,Queretaro,300
+Morelia,Culiacan,300
+Morelia,Villahermosa,400
+Morelia,Tlaxcala,400
+Morelia,Xalapa,400
+Morelia,Toluca,400
+Morelia,Pachuca,400
+Morelia,La Paz,400
+Morelia,Durango,400
+Morelia,Hermosillo,400
+Morelia,Campeche,500
+Morelia,Mexicali,500
+Morelia,Zacatecas,500
+Morelia,Chihuahua,500
+Morelia,Merida,600
+Morelia,Chetumal,600
+Morelia,Aguascalientes,600
+Morelia,San Luis Potosi,600
+Morelia,Saltillo,600
+Morelia,Guadalajara,700
+Morelia,Ciudad Victoria,700
+Morelia,Monterrey,700
+Durango,Zacatecas,100
+Durango,Culiacan,100
+Durango,Aguascalientes,200
+Durango,San Luis Potosi,200
+Durango,La Paz,200
+Durango,Tepic,200
+Durango,Hermosillo,200
+Durango,Guadalajara,300
+Durango,Ciudad Victoria,300
+Durango,Mexicali,300
+Durango,Guadalajara,300
+Durango,Chihuahua,300
+Durango,Monterrey,400
+Durango,Colima,400
+Durango,Guanajuato,400
+Durango,Morelia,400
+Durango,Saltillo,400
+Durango,Queretaro,500
+Durango,Chilpancingo,500
+Durango,Pachuca,600
+Durango,Oaxaca,600
+Durango,Cuernavaca,600
+Durango,Toluca,700
+Durango,Tlaxcala,700
+Durango,Tuxtla Gutierrez,700
+Durango,Puebla,700
+Durango,Ciudad de Mexico,700
+Durango,Villahermosa,800
+Durango,Xalapa,800
+Durango,Campeche,900
+Durango,Merida,1000
+Durango,Chetumal,1000
+Guanajuato,Queretaro,100
+Guanajuato,Guadalajara,100
+Guanajuato,Pachuca,200
+Guanajuato,Colima,200
+Guanajuato,Morelia,200
+Guanajuato,Tepic,200
+Guanajuato,Toluca,300
+Guanajuato,Tlaxcala,300
+Guanajuato,Chilpancingo,300
+Guanajuato,Culiacan,300
+Guanajuato,Ciudad de Mexico,400
+Guanajuato,Puebla,400
+Guanajuato,Oaxaca,400
+Guanajuato,Cuernavaca,400
+Guanajuato,La Paz,400
+Guanajuato,Durango,400
+Guanajuato,Hermosillo,400
+Guanajuato,Xalapa,500
+Guanajuato,Tuxtla Gutierrez,500
+Guanajuato,Mexicali,500
+Guanajuato,Zacatecas,500
+Guanajuato,Chihuahua,500
+Guanajuato,Villahermosa,600
+Guanajuato,Aguascalientes,600
+Guanajuato,San Luis Potosi,600
+Guanajuato,Saltillo,600
+Guanajuato,Campeche,700
+Guanajuato,Guadalajara,700
+Guanajuato,Ciudad Victoria,700
+Guanajuato,Monterrey,700
+Guanajuato,Merida,800
+Guanajuato,Chetumal,800
+Queretaro,Guanajuato,100
+Queretaro,Pachuca,100
+Queretaro,Guadalajara,200
+Queretaro,Toluca,200
+Queretaro,Tlaxcala,200
+Queretaro,Colima,300
+Queretaro,Morelia,300
+Queretaro,Tepic,300
+Queretaro,Ciudad de Mexico,300
+Queretaro,Puebla,300
+Queretaro,Chilpancingo,400
+Queretaro,Culiacan,400
+Queretaro,Cuernavaca,400
+Queretaro,Oaxaca,400
+Queretaro,Xalapa,400
+Queretaro,La Paz,500
+Queretaro,Durango,500
+Queretaro,Hermosillo,500
+Queretaro,Tuxtla Gutierrez,500
+Queretaro,Villahermosa,500
+Queretaro,Mexicali,600
+Queretaro,Zacatecas,600
+Queretaro,Chihuahua,600
+Queretaro,Campeche,600
+Queretaro,Aguascalientes,700
+Queretaro,San Luis Potosi,700
+Queretaro,Saltillo,700
+Queretaro,Merida,700
+Queretaro,Chetumal,700
+Queretaro,Guadalajara,800
+Queretaro,Ciudad Victoria,800
+Queretaro,Monterrey,800
+Chilpancingo,Oaxaca,100
+Chilpancingo,Morelia,100
+Chilpancingo,Cuernavaca,100
+Chilpancingo,Tuxtla Gutierrez,200
+Chilpancingo,Puebla,200
+Chilpancingo,Colima,200
+Chilpancingo,Guadalajara,200
+Chilpancingo,Ciudad de Mexico,200
+Chilpancingo,Villahermosa,300
+Chilpancingo,Tlaxcala,300
+Chilpancingo,Xalapa,300
+Chilpancingo,Guanajuato,300
+Chilpancingo,Tepic,300
+Chilpancingo,Toluca,300
+Chilpancingo,Campeche,400
+Chilpancingo,Pachuca,400
+Chilpancingo,Queretaro,400
+Chilpancingo,Culiacan,400
+Chilpancingo,Merida,500
+Chilpancingo,Chetumal,500
+Chilpancingo,La Paz,500
+Chilpancingo,Durango,500
+Chilpancingo,Hermosillo,500
+Chilpancingo,Mexicali,600
+Chilpancingo,Zacatecas,600
+Chilpancingo,Chihuahua,600
+Chilpancingo,Aguascalientes,700
+Chilpancingo,San Luis Potosi,700
+Chilpancingo,Saltillo,700
+Chilpancingo,Guadalajara,800
+Chilpancingo,Ciudad Victoria,800
+Chilpancingo,Monterrey,800
+Pachuca,Queretaro,100
+Pachuca,Toluca,100
+Pachuca,Tlaxcala,100
+Pachuca,Guanajuato,200
+Pachuca,Ciudad de Mexico,200
+Pachuca,Puebla,200
+Pachuca,Guadalajara,300
+Pachuca,Cuernavaca,300
+Pachuca,Oaxaca,300
+Pachuca,Xalapa,300
+Pachuca,Colima,400
+Pachuca,Morelia,400
+Pachuca,Tepic,400
+Pachuca,Chilpancingo,400
+Pachuca,Tuxtla Gutierrez,400
+Pachuca,Villahermosa,400
+Pachuca,Culiacan,500
+Pachuca,Campeche,500
+Pachuca,La Paz,600
+Pachuca,Durango,600
+Pachuca,Hermosillo,600
+Pachuca,Merida,600
+Pachuca,Chetumal,600
+Pachuca,Mexicali,700
+Pachuca,Zacatecas,700
+Pachuca,Chihuahua,700
+Pachuca,Aguascalientes,800
+Pachuca,San Luis Potosi,800
+Pachuca,Saltillo,800
+Pachuca,Guadalajara,900
+Pachuca,Ciudad Victoria,900
+Pachuca,Monterrey,900
+Toluca,Pachuca,100
+Toluca,Ciudad de Mexico,100
+Toluca,Queretaro,200
+Toluca,Tlaxcala,200
+Toluca,Cuernavaca,200
+Toluca,Guanajuato,300
+Toluca,Puebla,300
+Toluca,Chilpancingo,300
+Toluca,Guadalajara,400
+Toluca,Oaxaca,400
+Toluca,Xalapa,400
+Toluca,Morelia,400
+Toluca,Colima,500
+Toluca,Tepic,500
+Toluca,Tuxtla Gutierrez,500
+Toluca,Villahermosa,500
+Toluca,Culiacan,600
+Toluca,Campeche,600
+Toluca,La Paz,700
+Toluca,Durango,700
+Toluca,Hermosillo,700
+Toluca,Merida,700
+Toluca,Chetumal,700
+Toluca,Mexicali,800
+Toluca,Zacatecas,800
+Toluca,Chihuahua,800
+Toluca,Aguascalientes,900
+Toluca,San Luis Potosi,900
+Toluca,Saltillo,900
+Toluca,Guadalajara,1000
+Toluca,Ciudad Victoria,1000
+Toluca,Monterrey,1000
+Ciudad de Mexico,Toluca,100
+Ciudad de Mexico,Cuernavaca,100
+Ciudad de Mexico,Pachuca,200
+Ciudad de Mexico,Chilpancingo,200
+Ciudad de Mexico,Queretaro,300
+Ciudad de Mexico,Tlaxcala,300
+Ciudad de Mexico,Oaxaca,300
+Ciudad de Mexico,Morelia,300
+Ciudad de Mexico,Guanajuato,400
+Ciudad de Mexico,Puebla,400
+Ciudad de Mexico,Tuxtla Gutierrez,400
+Ciudad de Mexico,Colima,400
+Ciudad de Mexico,Guadalajara,400
+Ciudad de Mexico,Xalapa,500
+Ciudad de Mexico,Villahermosa,500
+Ciudad de Mexico,Tepic,500
+Ciudad de Mexico,Campeche,600
+Ciudad de Mexico,Culiacan,600
+Ciudad de Mexico,Merida,700
+Ciudad de Mexico,Chetumal,700
+Ciudad de Mexico,La Paz,700
+Ciudad de Mexico,Durango,700
+Ciudad de Mexico,Hermosillo,700
+Ciudad de Mexico,Mexicali,800
+Ciudad de Mexico,Zacatecas,800
+Ciudad de Mexico,Chihuahua,800
+Ciudad de Mexico,Aguascalientes,900
+Ciudad de Mexico,San Luis Potosi,900
+Ciudad de Mexico,Saltillo,900
+Ciudad de Mexico,Guadalajara,1000
+Ciudad de Mexico,Ciudad Victoria,1000
+Ciudad de Mexico,Monterrey,1000
+Cuernavaca,Ciudad de Mexico,100
+Cuernavaca,Chilpancingo,100
+Cuernavaca,Toluca,200
+Cuernavaca,Oaxaca,200
+Cuernavaca,Morelia,200
+Cuernavaca,Pachuca,300
+Cuernavaca,Tuxtla Gutierrez,300
+Cuernavaca,Puebla,300
+Cuernavaca,Colima,300
+Cuernavaca,Guadalajara,300
+Cuernavaca,Queretaro,400
+Cuernavaca,Tlaxcala,400
+Cuernavaca,Villahermosa,400
+Cuernavaca,Xalapa,400
+Cuernavaca,Guanajuato,400
+Cuernavaca,Tepic,400
+Cuernavaca,Campeche,500
+Cuernavaca,Culiacan,500
+Cuernavaca,Merida,600
+Cuernavaca,Chetumal,600
+Cuernavaca,La Paz,600
+Cuernavaca,Durango,600
+Cuernavaca,Hermosillo,600
+Cuernavaca,Mexicali,700
+Cuernavaca,Zacatecas,700
+Cuernavaca,Chihuahua,700
+Cuernavaca,Aguascalientes,800
+Cuernavaca,San Luis Potosi,800
+Cuernavaca,Saltillo,800
+Cuernavaca,Guadalajara,900
+Cuernavaca,Ciudad Victoria,900
+Cuernavaca,Monterrey,900
+Tepic,Guadalajara,100
+Tepic,Culiacan,100
+Tepic,Colima,200
+Tepic,Guanajuato,200
+Tepic,Morelia,200
+Tepic,La Paz,200
+Tepic,Durango,200
+Tepic,Hermosillo,200
+Tepic,Queretaro,300
+Tepic,Chilpancingo,300
+Tepic,Mexicali,300
+Tepic,Zacatecas,300
+Tepic,Chihuahua,300
+Tepic,Pachuca,400
+Tepic,Oaxaca,400
+Tepic,Cuernavaca,400
+Tepic,Aguascalientes,400
+Tepic,San Luis Potosi,400
+Tepic,Saltillo,400
+Tepic,Toluca,500
+Tepic,Tlaxcala,500
+Tepic,Tuxtla Gutierrez,500
+Tepic,Puebla,500
+Tepic,Ciudad de Mexico,500
+Tepic,Guadalajara,500
+Tepic,Ciudad Victoria,500
+Tepic,Monterrey,500
+Tepic,Villahermosa,600
+Tepic,Xalapa,600
+Tepic,Campeche,700
+Tepic,Merida,800
+Tepic,Chetumal,800
+Ciudad Victoria,Monterrey,100
+Ciudad Victoria,San Luis Potosi,100
+Ciudad Victoria,Saltillo,200
+Ciudad Victoria,Zacatecas,200
+Ciudad Victoria,Chihuahua,300
+Ciudad Victoria,Aguascalientes,300
+Ciudad Victoria,Durango,300
+Ciudad Victoria,Hermosillo,400
+Ciudad Victoria,Guadalajara,400
+Ciudad Victoria,Culiacan,400
+Ciudad Victoria,Mexicali,500
+Ciudad Victoria,La Paz,500
+Ciudad Victoria,Tepic,500
+Ciudad Victoria,Guadalajara,600
+Ciudad Victoria,Colima,700
+Ciudad Victoria,Guanajuato,700
+Ciudad Victoria,Morelia,700
+Ciudad Victoria,Queretaro,800
+Ciudad Victoria,Chilpancingo,800
+Ciudad Victoria,Pachuca,900
+Ciudad Victoria,Oaxaca,900
+Ciudad Victoria,Cuernavaca,900
+Ciudad Victoria,Toluca,1000
+Ciudad Victoria,Tlaxcala,1000
+Ciudad Victoria,Tuxtla Gutierrez,1000
+Ciudad Victoria,Puebla,1000
+Ciudad Victoria,Ciudad de Mexico,1000
+Ciudad Victoria,Villahermosa,1100
+Ciudad Victoria,Xalapa,1100
+Ciudad Victoria,Campeche,1200
+Ciudad Victoria,Merida,1300
+Ciudad Victoria,Chetumal,1300
+Puebla,Tlaxcala,100
+Puebla,Oaxaca,100
+Puebla,Xalapa,100
+Puebla,Pachuca,200
+Puebla,Tuxtla Gutierrez,200
+Puebla,Chilpancingo,200
+Puebla,Villahermosa,200
+Puebla,Queretaro,300
+Puebla,Toluca,300
+Puebla,Morelia,300
+Puebla,Cuernavaca,300
+Puebla,Campeche,300
+Puebla,Guanajuato,400
+Puebla,Ciudad de Mexico,400
+Puebla,Colima,400
+Puebla,Guadalajara,400
+Puebla,Merida,400
+Puebla,Chetumal,400
+Puebla,Tepic,500
+Puebla,Culiacan,600
+Puebla,La Paz,700
+Puebla,Durango,700
+Puebla,Hermosillo,700
+Puebla,Mexicali,800
+Puebla,Zacatecas,800
+Puebla,Chihuahua,800
+Puebla,Aguascalientes,900
+Puebla,San Luis Potosi,900
+Puebla,Saltillo,900
+Puebla,Guadalajara,1000
+Puebla,Ciudad Victoria,1000
+Puebla,Monterrey,1000
+Tlaxcala,Puebla,100
+Tlaxcala,Pachuca,100
+Tlaxcala,Oaxaca,200
+Tlaxcala,Xalapa,200
+Tlaxcala,Queretaro,200
+Tlaxcala,Toluca,200
+Tlaxcala,Tuxtla Gutierrez,300
+Tlaxcala,Chilpancingo,300
+Tlaxcala,Villahermosa,300
+Tlaxcala,Guanajuato,300
+Tlaxcala,Ciudad de Mexico,300
+Tlaxcala,Morelia,400
+Tlaxcala,Cuernavaca,400
+Tlaxcala,Campeche,400
+Tlaxcala,Guadalajara,400
+Tlaxcala,Colima,500
+Tlaxcala,Merida,500
+Tlaxcala,Chetumal,500
+Tlaxcala,Tepic,500
+Tlaxcala,Culiacan,600
+Tlaxcala,La Paz,700
+Tlaxcala,Durango,700
+Tlaxcala,Hermosillo,700
+Tlaxcala,Mexicali,800
+Tlaxcala,Zacatecas,800
+Tlaxcala,Chihuahua,800
+Tlaxcala,Aguascalientes,900
+Tlaxcala,San Luis Potosi,900
+Tlaxcala,Saltillo,900
+Tlaxcala,Guadalajara,1000
+Tlaxcala,Ciudad Victoria,1000
+Tlaxcala,Monterrey,1000
+Chetumal,Merida,100
+Chetumal,Campeche,100
+Chetumal,Villahermosa,200
+Chetumal,Tuxtla Gutierrez,300
+Chetumal,Xalapa,300
+Chetumal,Oaxaca,400
+Chetumal,Puebla,400
+Chetumal,Chilpancingo,500
+Chetumal,Tlaxcala,500
+Chetumal,Morelia,600
+Chetumal,Cuernavaca,600
+Chetumal,Pachuca,600
+Chetumal,Colima,700
+Chetumal,Guadalajara,700
+Chetumal,Ciudad de Mexico,700
+Chetumal,Queretaro,700
+Chetumal,Toluca,700
+Chetumal,Guanajuato,800
+Chetumal,Tepic,800
+Chetumal,Culiacan,900
+Chetumal,La Paz,1000
+Chetumal,Durango,1000
+Chetumal,Hermosillo,1000
+Chetumal,Mexicali,1100
+Chetumal,Zacatecas,1100
+Chetumal,Chihuahua,1100
+Chetumal,Aguascalientes,1200
+Chetumal,San Luis Potosi,1200
+Chetumal,Saltillo,1200
+Chetumal,Guadalajara,1300
+Chetumal,Ciudad Victoria,1300
+Chetumal,Monterrey,1300
+San Luis Potosi,Ciudad Victoria,100
+San Luis Potosi,Zacatecas,100
+San Luis Potosi,Monterrey,200
+San Luis Potosi,Aguascalientes,200
+San Luis Potosi,Durango,200
+San Luis Potosi,Saltillo,300
+San Luis Potosi,Guadalajara,300
+San Luis Potosi,Culiacan,300
+San Luis Potosi,Chihuahua,400
+San Luis Potosi,La Paz,400
+San Luis Potosi,Tepic,400
+San Luis Potosi,Hermosillo,400
+San Luis Potosi,Mexicali,500
+San Luis Potosi,Guadalajara,500
+San Luis Potosi,Colima,600
+San Luis Potosi,Guanajuato,600
+San Luis Potosi,Morelia,600
+San Luis Potosi,Queretaro,700
+San Luis Potosi,Chilpancingo,700
+San Luis Potosi,Pachuca,800
+San Luis Potosi,Oaxaca,800
+San Luis Potosi,Cuernavaca,800
+San Luis Potosi,Toluca,900
+San Luis Potosi,Tlaxcala,900
+San Luis Potosi,Tuxtla Gutierrez,900
+San Luis Potosi,Puebla,900
+San Luis Potosi,Ciudad de Mexico,900
+San Luis Potosi,Villahermosa,1000
+San Luis Potosi,Xalapa,1000
+San Luis Potosi,Campeche,1100
+San Luis Potosi,Merida,1200
+San Luis Potosi,Chetumal,1200
+Xalapa,Villahermosa,100
+Xalapa,Puebla,100
+Xalapa,Campeche,200
+Xalapa,Tuxtla Gutierrez,200
+Xalapa,Tlaxcala,200
+Xalapa,Oaxaca,200
+Xalapa,Merida,300
+Xalapa,Chetumal,300
+Xalapa,Pachuca,300
+Xalapa,Chilpancingo,300
+Xalapa,Queretaro,400
+Xalapa,Toluca,400
+Xalapa,Morelia,400
+Xalapa,Cuernavaca,400
+Xalapa,Guanajuato,500
+Xalapa,Ciudad de Mexico,500
+Xalapa,Colima,500
+Xalapa,Guadalajara,500
+Xalapa,Tepic,600
+Xalapa,Culiacan,700
+Xalapa,La Paz,800
+Xalapa,Durango,800
+Xalapa,Hermosillo,800
+Xalapa,Mexicali,900
+Xalapa,Zacatecas,900
+Xalapa,Chihuahua,900
+Xalapa,Aguascalientes,1000
+Xalapa,San Luis Potosi,1000
+Xalapa,Saltillo,1000
+Xalapa,Guadalajara,1100
+Xalapa,Ciudad Victoria,1100
+Xalapa,Monterrey,1100
+aguascalientes,zacatecas,100
+aguascalientes,guadalajara,100
+aguascalientes,durango,200
+aguascalientes,san luis potosi,200
+aguascalientes,culiacan,300
+aguascalientes,ciudad victoria,300
+aguascalientes,la paz,400
+aguascalientes,tepic,400
+aguascalientes,hermosillo,400
+aguascalientes,monterrey,400
+aguascalientes,mexicali,500
+aguascalientes,chihuahua,500
+aguascalientes,saltillo,500
+aguascalientes,colima,600
+aguascalientes,guanajuato,600
+aguascalientes,morelia,600
+aguascalientes,queretaro,700
+aguascalientes,chilpancingo,700
+aguascalientes,pachuca,800
+aguascalientes,oaxaca,800
+aguascalientes,cuernavaca,800
+aguascalientes,toluca,900
+aguascalientes,tlaxcala,900
+aguascalientes,tuxtla gutierrez,900
+aguascalientes,puebla,900
+aguascalientes,ciudad de mexico,900
+aguascalientes,villahermosa,1000
+aguascalientes,xalapa,1000
+aguascalientes,campeche,1100
+aguascalientes,merida,1200
+aguascalientes,chetumal,1200
+aguascalientes,san diego,700
+campeche,zacatecas,1000
+campeche,guadalajara,1200
+campeche,mexicali,1000
+campeche,hermosillo,900
+campeche,la paz,900
+campeche,culiacan,800
+campeche,merida,100
+campeche,villahermosa,100
+campeche,chetumal,100
+campeche,tuxtla gutierrez,200
+campeche,xalapa,200
+campeche,oaxaca,300
+campeche,puebla,300
+campeche,chilpancingo,400
+campeche,tlaxcala,400
+campeche,morelia,500
+campeche,cuernavaca,500
+campeche,pachuca,500
+campeche,colima,600
+campeche,ciudad de mexico,600
+campeche,queretaro,600
+campeche,toluca,600
+campeche,guanajuato,700
+campeche,tepic,700
+campeche,durango,900
+campeche,chihuahua,1000
+campeche,san luis potosi,1100
+campeche,saltillo,1100
+campeche,ciudad victoria,1200
+campeche,monterrey,1200
+campeche,san diego,1200
+chetumal,zacatecas,1100
+chetumal,guadalajara,1300
+chetumal,mexicali,1100
+chetumal,hermosillo,1000
+chetumal,la paz,1000
+chetumal,culiacan,900
+chetumal,merida,100
+chetumal,villahermosa,200
+chetumal,tuxtla gutierrez,300
+chetumal,oaxaca,400
+chetumal,chihuahua,1100
+chetumal,saltillo,1200
+chetumal,monterrey,1300
+chetumal,colima,700
+chetumal,morelia,600
+chetumal,durango,1000
+chetumal,guanajuato,800
+chetumal,queretaro,700
+chetumal,chilpancingo,500
+chetumal,pachuca,600
+chetumal,toluca,700
+chetumal,ciudad de mexico,700
+chetumal,cuernavaca,600
+chetumal,tepic,800
+chetumal,ciudad victoria,1300
+chetumal,puebla,400
+chetumal,tlaxcala,500
+chetumal,xalapa,300
+chetumal,san luis potosi,1200
+chetumal,san diego,1300
+chihuahua,zacatecas,400
+chihuahua,guadalajara,600
+chihuahua,mexicali,200
+chihuahua,hermosillo,100
+chihuahua,la paz,300
+chihuahua,culiacan,200
+chihuahua,merida,1100
+chihuahua,villahermosa,900
+chihuahua,tuxtla gutierrez,800
+chihuahua,oaxaca,700
+chihuahua,saltillo,100
+chihuahua,monterrey,200
+chihuahua,durango,300
+chihuahua,tepic,300
+chihuahua,ciudad victoria,300
+chihuahua,san luis potosi,400
+chihuahua,colima,500
+chihuahua,guanajuato,500
+chihuahua,morelia,500
+chihuahua,queretaro,600
+chihuahua,chilpancingo,600
+chihuahua,pachuca,700
+chihuahua,cuernavaca,700
+chihuahua,toluca,800
+chihuahua,tlaxcala,800
+chihuahua,puebla,800
+chihuahua,ciudad de mexico,800
+chihuahua,xalapa,900
+chihuahua,san diego,400
+chilpancingo,zacatecas,600
+chilpancingo,guadalajara,800
+chilpancingo,mexicali,600
+chilpancingo,hermosillo,500
+chilpancingo,la paz,500
+chilpancingo,culiacan,400
+chilpancingo,merida,500
+chilpancingo,villahermosa,300
+chilpancingo,tuxtla gutierrez,200
+chilpancingo,oaxaca,100
+chilpancingo,saltillo,700
+chilpancingo,monterrey,800
+chilpancingo,colima,200
+chilpancingo,morelia,100
+chilpancingo,durango,500
+chilpancingo,guanajuato,300
+chilpancingo,queretaro,400
+chilpancingo,cuernavaca,100
+chilpancingo,puebla,200
+chilpancingo,ciudad de mexico,200
+chilpancingo,tlaxcala,300
+chilpancingo,xalapa,300
+chilpancingo,tepic,300
+chilpancingo,toluca,300
+chilpancingo,pachuca,400
+chilpancingo,san luis potosi,700
+chilpancingo,ciudad victoria,800
+chilpancingo,san diego,800
+ciudad de mexico,zacatecas,800
+ciudad de mexico,guadalajara,1000
+ciudad de mexico,mexicali,800
+ciudad de mexico,hermosillo,700
+ciudad de mexico,la paz,700
+ciudad de mexico,culiacan,600
+ciudad de mexico,merida,700
+ciudad de mexico,villahermosa,500
+ciudad de mexico,tuxtla gutierrez,400
+ciudad de mexico,oaxaca,300
+ciudad de mexico,saltillo,900
+ciudad de mexico,monterrey,1000
+ciudad de mexico,colima,400
+ciudad de mexico,morelia,300
+ciudad de mexico,durango,700
+ciudad de mexico,guanajuato,400
+ciudad de mexico,queretaro,300
+ciudad de mexico,pachuca,200
+ciudad de mexico,toluca,100
+ciudad de mexico,cuernavaca,100
+ciudad de mexico,tlaxcala,300
+ciudad de mexico,puebla,400
+ciudad de mexico,xalapa,500
+ciudad de mexico,tepic,500
+ciudad de mexico,san luis potosi,900
+ciudad de mexico,ciudad victoria,1000
+ciudad de mexico,san diego,1000
+ciudad victoria,zacatecas,200
+ciudad victoria,guadalajara,400
+ciudad victoria,mexicali,500
+ciudad victoria,hermosillo,400
+ciudad victoria,la paz,500
+ciudad victoria,culiacan,400
+ciudad victoria,merida,1300
+ciudad victoria,villahermosa,1100
+ciudad victoria,tuxtla gutierrez,1000
+ciudad victoria,oaxaca,900
+ciudad victoria,saltillo,200
+ciudad victoria,monterrey,100
+ciudad victoria,colima,700
+ciudad victoria,morelia,700
+ciudad victoria,durango,300
+ciudad victoria,guanajuato,700
+ciudad victoria,queretaro,800
+ciudad victoria,pachuca,900
+ciudad victoria,toluca,1000
+ciudad victoria,cuernavaca,900
+ciudad victoria,tepic,500
+ciudad victoria,san luis potosi,100
+ciudad victoria,tlaxcala,1000
+ciudad victoria,puebla,1000
+ciudad victoria,xalapa,1100
+ciudad victoria,san diego,700
+colima,zacatecas,500
+colima,guadalajara,700
+colima,mexicali,500
+colima,hermosillo,400
+colima,la paz,400
+colima,culiacan,300
+colima,merida,700
+colima,villahermosa,500
+colima,tuxtla gutierrez,400
+colima,oaxaca,300
+colima,saltillo,600
+colima,monterrey,700
+colima,morelia,100
+colima,guanajuato,200
+colima,tepic,200
+colima,queretaro,300
+colima,cuernavaca,300
+colima,pachuca,400
+colima,durango,400
+colima,puebla,400
+colima,toluca,500
+colima,tlaxcala,500
+colima,xalapa,500
+colima,san luis potosi,600
+colima,san diego,700
+cuernavaca,zacatecas,700
+cuernavaca,guadalajara,900
+cuernavaca,mexicali,700
+cuernavaca,hermosillo,600
+cuernavaca,la paz,600
+cuernavaca,culiacan,500
+cuernavaca,merida,600
+cuernavaca,villahermosa,400
+cuernavaca,tuxtla gutierrez,300
+cuernavaca,oaxaca,200
+cuernavaca,saltillo,800
+cuernavaca,monterrey,900
+cuernavaca,morelia,200
+cuernavaca,durango,600
+cuernavaca,guanajuato,400
+cuernavaca,queretaro,400
+cuernavaca,pachuca,300
+cuernavaca,toluca,200
+cuernavaca,puebla,300
+cuernavaca,tlaxcala,400
+cuernavaca,xalapa,400
+cuernavaca,tepic,400
+cuernavaca,san luis potosi,800
+cuernavaca,san diego,900
+culiacan,zacatecas,200
+culiacan,guadalajara,400
+culiacan,mexicali,200
+culiacan,hermosillo,100
+culiacan,la paz,100
+culiacan,durango,100
+culiacan,tepic,100
+culiacan,san luis potosi,300
+culiacan,guanajuato,300
+culiacan,morelia,300
+culiacan,saltillo,300
+culiacan,queretaro,400
+culiacan,monterrey,400
+culiacan,pachuca,500
+culiacan,oaxaca,500
+culiacan,toluca,600
+culiacan,tlaxcala,600
+culiacan,tuxtla gutierrez,600
+culiacan,puebla,600
+culiacan,villahermosa,700
+culiacan,xalapa,700
+culiacan,merida,900
+culiacan,san diego,400
+durango,zacatecas,100
+durango,guadalajara,300
+durango,mexicali,300
+durango,hermosillo,200
+durango,la paz,200
+durango,merida,1000
+durango,villahermosa,800
+durango,tuxtla gutierrez,700
+durango,oaxaca,600
+durango,saltillo,400
+durango,monterrey,400
+durango,morelia,400
+durango,san luis potosi,200
+durango,tepic,200
+durango,guanajuato,400
+durango,queretaro,500
+durango,pachuca,600
+durango,toluca,700
+durango,tlaxcala,700
+durango,puebla,700
+durango,xalapa,800
+durango,san diego,500
+guadalajara,zacatecas,200
+guadalajara,san luis potosi,300
+guadalajara,la paz,500
+guadalajara,tepic,500
+guadalajara,hermosillo,500
+guadalajara,monterrey,500
+guadalajara,mexicali,600
+guadalajara,guadalajara,600
+guadalajara,saltillo,600
+guadalajara,guanajuato,700
+guadalajara,morelia,700
+guadalajara,queretaro,800
+guadalajara,pachuca,900
+guadalajara,oaxaca,900
+guadalajara,toluca,1000
+guadalajara,tlaxcala,1000
+guadalajara,tuxtla gutierrez,1000
+guadalajara,puebla,1000
+guadalajara,villahermosa,1100
+guadalajara,xalapa,1100
+guadalajara,merida,1300
+guadalajara,san diego,800
+guanajuato,zacatecas,500
+guanajuato,mexicali,500
+guanajuato,hermosillo,400
+guanajuato,la paz,400
+guanajuato,merida,800
+guanajuato,villahermosa,600
+guanajuato,tuxtla gutierrez,500
+guanajuato,oaxaca,400
+guanajuato,saltillo,600
+guanajuato,monterrey,700
+guanajuato,morelia,200
+guanajuato,queretaro,100
+guanajuato,pachuca,200
+guanajuato,tepic,200
+guanajuato,toluca,300
+guanajuato,tlaxcala,300
+guanajuato,puebla,400
+guanajuato,xalapa,500
+guanajuato,san luis potosi,600
+guanajuato,san diego,700
+hermosillo,zacatecas,300
+hermosillo,mexicali,100
+hermosillo,la paz,200
+hermosillo,saltillo,200
+hermosillo,tepic,200
+hermosillo,monterrey,300
+hermosillo,san luis potosi,400
+hermosillo,morelia,400
+hermosillo,queretaro,500
+hermosillo,pachuca,600
+hermosillo,oaxaca,600
+hermosillo,toluca,700
+hermosillo,tlaxcala,700
+hermosillo,tuxtla gutierrez,700
+hermosillo,puebla,700
+hermosillo,villahermosa,800
+hermosillo,xalapa,800
+hermosillo,merida,1000
+hermosillo,san diego,300
+la paz,zacatecas,300
+la paz,mexicali,100
+la paz,tepic,200
+la paz,saltillo,400
+la paz,san luis potosi,400
+la paz,morelia,400
+la paz,monterrey,500
+la paz,queretaro,500
+la paz,pachuca,600
+la paz,oaxaca,600
+la paz,toluca,700
+la paz,tlaxcala,700
+la paz,tuxtla gutierrez,700
+la paz,puebla,700
+la paz,villahermosa,800
+la paz,xalapa,800
+la paz,merida,1000
+la paz,san diego,300
+merida,zacatecas,1100
+merida,mexicali,1100
+merida,villahermosa,200
+merida,tuxtla gutierrez,300
+merida,xalapa,300
+merida,oaxaca,400
+merida,puebla,400
+merida,tlaxcala,500
+merida,morelia,600
+merida,pachuca,600
+merida,queretaro,700
+merida,toluca,700
+merida,tepic,800
+merida,san luis potosi,1200
+merida,saltillo,1200
+merida,monterrey,1300
+merida,san diego,1300
+mexicali,zacatecas,400
+mexicali,saltillo,300
+mexicali,tepic,300
+mexicali,monterrey,400
+mexicali,san luis potosi,500
+mexicali,morelia,500
+mexicali,queretaro,600
+mexicali,pachuca,700
+mexicali,oaxaca,700
+mexicali,toluca,800
+mexicali,tlaxcala,800
+mexicali,tuxtla gutierrez,800
+mexicali,puebla,800
+mexicali,villahermosa,900
+mexicali,xalapa,900
+mexicali,san diego,200
+monterrey,zacatecas,300
+monterrey,villahermosa,1100
+monterrey,tuxtla gutierrez,1000
+monterrey,oaxaca,900
+monterrey,saltillo,100
+monterrey,san luis potosi,200
+monterrey,tepic,500
+monterrey,morelia,700
+monterrey,queretaro,800
+monterrey,pachuca,900
+monterrey,toluca,1000
+monterrey,tlaxcala,1000
+monterrey,puebla,1000
+monterrey,xalapa,1100
+monterrey,san diego,600
+morelia,zacatecas,500
+morelia,villahermosa,400
+morelia,tuxtla gutierrez,300
+morelia,oaxaca,200
+morelia,saltillo,600
+morelia,tepic,200
+morelia,puebla,300
+morelia,queretaro,300
+morelia,tlaxcala,400
+morelia,xalapa,400
+morelia,toluca,400
+morelia,pachuca,400
+morelia,san luis potosi,600
+morelia,san diego,700
+oaxaca,zacatecas,700
+oaxaca,villahermosa,200
+oaxaca,tuxtla gutierrez,100
+oaxaca,puebla,100
+oaxaca,tlaxcala,200
+oaxaca,xalapa,200
+oaxaca,pachuca,300
+oaxaca,tepic,400
+oaxaca,toluca,400
+oaxaca,queretaro,400
+oaxaca,san luis potosi,800
+oaxaca,saltillo,800
+oaxaca,san diego,900
+pachuca,zacatecas,700
+pachuca,villahermosa,400
+pachuca,tuxtla gutierrez,400
+pachuca,saltillo,800
+pachuca,queretaro,100
+pachuca,toluca,100
+pachuca,tlaxcala,100
+pachuca,puebla,200
+pachuca,xalapa,300
+pachuca,tepic,400
+pachuca,san luis potosi,800
+pachuca,san diego,900
+puebla,zacatecas,800
+puebla,villahermosa,200
+puebla,tuxtla gutierrez,200
+puebla,saltillo,900
+puebla,queretaro,300
+puebla,toluca,300
+puebla,tepic,500
+puebla,tlaxcala,100
+puebla,xalapa,100
+puebla,san luis potosi,900
+puebla,san diego,1000
+queretaro,zacatecas,600
+queretaro,villahermosa,500
+queretaro,tuxtla gutierrez,500
+queretaro,saltillo,700
+queretaro,toluca,200
+queretaro,tlaxcala,200
+queretaro,tepic,300
+queretaro,xalapa,400
+queretaro,san luis potosi,700
+queretaro,san diego,800
+saltillo,zacatecas,400
+saltillo,villahermosa,1000
+saltillo,tuxtla gutierrez,900
+saltillo,san luis potosi,300
+saltillo,tepic,400
+saltillo,toluca,900
+saltillo,tlaxcala,900
+saltillo,xalapa,1000
+saltillo,san diego,500
+san diego,san luis potosi,700
+san diego,tepic,500
+san diego,tlaxcala,1000
+san diego,toluca,1000
+san diego,tuxtla gutierrez,1000
+san diego,villahermosa,1100
+san diego,xalapa,1100
+san diego,zacatecas,600
+san luis potosi,zacatecas,100
+san luis potosi,villahermosa,1000
+san luis potosi,tuxtla gutierrez,900
+san luis potosi,toluca,900
+san luis potosi,tepic,400
+san luis potosi,tlaxcala,900
+san luis potosi,xalapa,1000
+tepic,zacatecas,300
+tepic,villahermosa,600
+tepic,tuxtla gutierrez,500
+tepic,toluca,500
+tepic,tlaxcala,500
+tepic,xalapa,600
+tlaxcala,zacatecas,800
+tlaxcala,villahermosa,300
+tlaxcala,tuxtla gutierrez,300
+tlaxcala,toluca,200
+tlaxcala,xalapa,200
+toluca,zacatecas,800
+toluca,villahermosa,500
+toluca,tuxtla gutierrez,500
+toluca,xalapa,400
+tuxtla gutierrez,zacatecas,800
+tuxtla gutierrez,villahermosa,100
+tuxtla gutierrez,xalapa,200
+villahermosa,zacatecas,900
+villahermosa,xalapa,100
+xalapa,zacatecas,900
