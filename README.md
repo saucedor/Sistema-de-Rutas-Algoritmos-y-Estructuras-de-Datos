@@ -149,20 +149,80 @@ Este método asegura que se obtenga la distancia más corta y el camino entre do
 
 # SICT0303: Implementa Acciones Científicas
 
-## Consulta de Información de las Estructuras
+# Consulta de Información de las Estructuras
 
-El programa incluye mecanismos interactivos para consultar:
-- Las conexiones entre ciudades (`imprimirGrafo`).
-- La distancia más corta entre dos ciudades (`encontrarRutaMasCorta`).
+## 1. Conexiones entre ciudades (`imprimirGrafo`)
 
-## Lectura de Archivos CSV
+### Salida: 
+Al cargar los datos desde un archivo CSV, el sistema registra cada conexión con un mensaje en consola que indica las ciudades conectadas y la distancia, como:
 
-- Los datos de las ciudades y rutas se cargan desde el archivo `rutas.csv` al inicializar el programa.
-- Los nombres de las ciudades se normalizan (sin acentos ni mayúsculas) para evitar inconsistencias.
+``` bash
+Cargando: toluca -> zacatecas (800 km)
+Cargando: toluca -> villahermosa (500 km)
+Cargando: toluca -> tuxtla gutierrez (500 km)
+Cargando: toluca -> xalapa (400 km)
+Cargando: tuxtla gutierrez -> zacatecas
+```
 
-## Escritura de Archivos CSV
+También muestra una lista de todas las ciudades almacenadas en el grafo:
 
-- Las rutas nuevas se guardan en el archivo `rutas.csv` al final, preservando los datos existentes.
+``` bash
+Ciudades almacenadas en el grafo:
+ - xalapa
+ - queretaro
+ - toluca
+ ...
+```
+
+### Entrada:
+Esta funcionalidad no requiere entradas adicionales del usuario, pero es llamada indirectamente como parte de la interacción principal con el menú del sistema. Por ejemplo:
+
+```bash
+--- Sistema de Rutas ---
+1. Mostrar ruta más corta
+2. Agregar nueva ruta
+3. Guardar cambios
+0. Salir
+Seleccione una opción: 3
+```
+
+## 2. Distancia más corta entre dos ciudades (`encontrarRutaMasCorta`)
+
+### Entrada:
+El usuario interactúa con el menú principal y selecciona la opción para buscar la ruta más corta:
+
+```bash
+--- Sistema de Rutas ---
+1. Mostrar ruta más corta
+2. Agregar nueva ruta
+3. Guardar cambios
+0. Salir
+Seleccione una opción: 1
+```
+Luego, se le solicita que ingrese las ciudades de origen y destino:
+
+```bash
+Ciudad origen: Xalapa
+Ciudad destino: Queretaro
+```
+
+El sistema normaliza los nombres de las ciudades ingresadas para asegurar consistencia:
+
+```bash
+Ciudad origen (normalizada): xalapa
+Ciudad destino (normalizada): queretaro
+```
+
+Salida:
+El programa calcula y muestra la distancia más corta entre las dos ciudades, junto con la ruta específica que debe tomarse:
+
+```bash
+Distancia más corta de xalapa a queretaro: 400 km
+Ruta: xalapa -> queretaro
+```
+
+Una vez completada, regresa al menú principal para continuar con otras acciones.
+
 
 # Casos de Prueba
 
