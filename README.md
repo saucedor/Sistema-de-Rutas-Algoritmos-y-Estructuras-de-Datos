@@ -36,16 +36,12 @@ Este proyecto implementa un sistema de gestión de rutas que permite registrar c
 
 ### Compila el programa utilizando:
 
-g++ main.cpp Grafo.cpp Ruta.cpp Utils.cpp -o sistema_rutas
+  
+  g++ main.cpp Grafo.cpp Ruta.cpp Utils.cpp -o sistema_rutas
 
+Ejecuta el programa:
 
-###Ejecuta el programa:
-
-
-./sistema_rutas
-
-
-
+  ./sistema_rutas
 
 # Opciones del Menú
 
