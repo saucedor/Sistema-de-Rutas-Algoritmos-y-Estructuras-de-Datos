@@ -223,33 +223,65 @@ Ruta: xalapa -> queretaro
 
 Una vez completada, regresa al menú principal para continuar con otras acciones.
 
+## 3. Agregar una nueva ciudad y sus rutas (`agregarRuta`)
 
-# Casos de Prueba
+### Entrada:
+El usuario selecciona la opción para agregar una nueva ruta o ciudad en el menú principal:
 
-## Carga de Datos Inicial
+```bash
+--- Sistema de Rutas ---
+1. Mostrar ruta más corta
+2. Agregar nueva ruta
+3. Guardar cambios
+0. Salir
+Seleccione una opción: 2
+```
 
-- **Archivo de entrada**: `rutas.csv`.
-- **Resultado esperado**:
-  - Todas las rutas se cargan correctamente al grafo.
-  - Los nombres de las ciudades se normalizan.
+Se solicita:
 
-## Búsqueda de Rutas Más Cortas
+- Ciudad existente: Una ciudad que ya debe estar en el sistema. Ejemplo: Monterrey.
+- Nueva ciudad: La ciudad que se desea agregar al sistema. Ejemplo: Laredo.
+- Distancia: La distancia entre la ciudad existente y la nueva ciudad. Ejemplo: 230.
+La consola confirma las entradas y normaliza los nombres:
 
-- **Entrada**: Ciudad A -> Ciudad B.
-- **Resultado esperado**:
-  - Se muestra la distancia más corta y la ruta completa.
+```bash
+Ciudad existente (debe estar en el sistema): Monterrey
+Nueva ciudad a agregar: Laredo
+Distancia entre Monterrey y Laredo: 230
+```
 
-## Agregar Nueva Ruta
+Salida:
+Se agregan las rutas entre la nueva ciudad y todas las ciudades previamente conectadas a la ciudad existente, confirmando cada adición:
 
-- **Entrada**: Ciudad existente, nueva ciudad, distancia.
-- **Resultado esperado**:
-  - La nueva ciudad se conecta con todas las demás, calculando las distancias correctas.
+```bash
+Ruta agregada exitosamente: monterrey -> laredo (230 km)
+Ruta agregada exitosamente: laredo -> aguascalientes (630 km)
+Ruta agregada exitosamente: laredo -> campeche (1430 km)
+...
+Ruta agregada exitosamente: laredo -> zacatecas (530 km)
+```
 
-## Guardar Cambios
+Finalmente, muestra un mensaje que confirma que la nueva ciudad y todas sus rutas han sido agregadas:
 
-- **Entrada**: Opción 3 en el menú.
-- **Resultado esperado**:
-  - El archivo `rutas.csv` se actualiza correctamente, preservando los datos originales.
+```bash
+La ciudad laredo y sus rutas adicionales han sido agregadas exitosamente.
+```
+
+## 4. Guardar los datos en un archivo CSV (`guardarEnCSV`)
+
+### Entrada:
+El usuario selecciona la opción para guardar los datos actuales del grafo en un archivo CSV:
+
+```bash
+--- Sistema de Rutas ---
+1. Mostrar ruta más corta
+2. Agregar nueva ruta
+3. Guardar cambios
+0. Salir
+Seleccione una opción: 3
+```
+
+No se requiere ninguna entrada adicional, ya que el programa toma los datos directamente de la estructura interna del grafo.
 
 # Conclusión
 
