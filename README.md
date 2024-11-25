@@ -1,5 +1,5 @@
 # Sistema de Rutas
-Este proyecto implementa un sistema de gestión de rutas que permite registrar ciudades y distancias entre ellas, encontrar la ruta más corta entre dos ciudades utilizando el algoritmo de Dijkstra y guardar los cambios en un archivo CSV. Este README detalla el avance del proyecto, las instrucciones para usar el programa, y cómo cumple con los criterios de evaluación establecidos.
+Este proyecto implementa un sistema de gestión de rutas que permite registrar ciudades y distancias entre ellas, encontrar la ruta más corta entre dos ciudades utilizando el algoritmo de Dijkstra y guardar los cambios en un archivo CSV. En el caso preciso de este .csv se encuentran las capitales de cada estado de México Este README detalla el avance del proyecto, las instrucciones para usar el programa, y cómo cumple con los criterios de evaluación establecidos.
 
 ---
 
@@ -34,15 +34,14 @@ Este proyecto implementa un sistema de gestión de rutas que permite registrar c
 
 ## Compilación y Ejecución
 
-### Compila el programa utilizando:
-
-  
+-Compila el programa utilizando:
+  ``` bash
   g++ main.cpp Grafo.cpp Ruta.cpp Utils.cpp -o sistema_rutas
-
-Ejecuta el programa:
-
+  ```
+-Ejecuta el programa:
+  ``` bash
   ./sistema_rutas
-
+  ```
 # Opciones del Menú
 
 El programa presenta un menú interactivo con las siguientes opciones:
@@ -54,6 +53,10 @@ El programa presenta un menú interactivo con las siguientes opciones:
 ## Agregar Nueva Ruta:
 - Permite agregar una ciudad nueva conectada a una existente.
 - Genera automáticamente rutas hacia otras ciudades basándose en las distancias existentes.
+  Ejemplo:
+  Si es que el usuario agrega la ciudad "El paso" con la ciudad que ya está en el grafo "Chihuahua" que se encuentran a 360 km, el paso va a generar rutas a las otras ciudades
+  del grafo basado en las distancias que ya tenía "Chihuahua". Un caso sería de "El paso" a "Ciudad de México" sería la distancia entre "El paso" y "Chihuahua" + "Chihuahua" y "Ciudad de   México".
+  
 
 ## Guardar Cambios:
 - Guarda las rutas nuevas al final del archivo `rutas.csv`.
