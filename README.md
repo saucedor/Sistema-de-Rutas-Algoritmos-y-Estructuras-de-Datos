@@ -38,11 +38,15 @@ Este proyecto implementa un sistema de gestión de rutas que permite registrar c
 
 ```bash
 g++ main.cpp Grafo.cpp Ruta.cpp Utils.cpp -o sistema_rutas
+```bash
 
 ###Ejecuta el programa:
 
 ```bash
 ./sistema_rutas
+```bash
+
+
 
 # Opciones del Menú
 
