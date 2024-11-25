@@ -88,19 +88,64 @@ El programa presenta un menú interactivo con las siguientes opciones:
 
 # SICT0302: Toma Decisiones
 
-## Estructura de Datos: Grafo
+# Estructura de Datos: Grafo
 
-### Justificación:
-- El problema requiere modelar ciudades y rutas con distancias específicas.
-- Se utiliza un `std::map` para relacionar ciudades con sus rutas.
-- Los vectores dentro del grafo almacenan las rutas asociadas.
+## Justificación
+El uso de un grafo es necesario porque este permite modelar ciudades como nodos y rutas entre ellas como arcos. Esto resulta ideal para representar sistemas de transporte donde cada conexión tiene un peso asociado, en este caso, la distancia entre las ciudades. Usar un `std::map<std::string, std::vector<Ruta>>` facilita la implementación al asociar cada ciudad (clave) con un conjunto de rutas (valor), lo que hace eficiente la representación y la manipulación de las conexiones.
 
-## Algoritmo: Dijkstra
+## Implementación
+En el proyecto, el grafo se implementa mediante:
 
-### Justificación:
-- El algoritmo de Dijkstra es adecuado para encontrar rutas más cortas en grafos ponderados y no negativos.
-- Su implementación es eficiente y cumple con el requerimiento del programa.
+- **Claves** (`std::string`): Representan los nombres de las ciudades.
+- **Valores** (`std::vector<Ruta>`): Almacenan los arcos, donde cada arco tiene atributos como la ciudad de destino y la distancia.
 
+### Ejemplo de cómo se cargan las conexiones al grafo desde un archivo CSV:
+```cpp
+std::ifstream file(archivo);
+while (std::getline(file, linea)) {
+    std::stringstream ss(linea);
+    std::getline(ss, origen, ',');
+    std::getline(ss, destino, ',');
+    ss >> distancia;
+
+    rutas[origen].emplace_back(destino, distancia);
+    rutas[destino].emplace_back(origen, distancia); // Si es bidireccional
+}
+```
+Este enfoque permite modelar tanto conexiones unidireccionales como bidireccionales de forma flexible.
+
+# Algoritmo: Dijkstra
+
+## Justificación
+El algoritmo de Dijkstra se emplea porque es eficiente para encontrar las rutas más cortas en grafos ponderados donde los pesos son no negativos, como en este caso, las distancias entre ciudades. Su capacidad de actualizar las distancias mínimas de forma iterativa lo hace ideal para este tipo de problemas de optimización.
+
+## Aplicación en el Proyecto
+En el proyecto, Dijkstra se utiliza para calcular la ruta más corta entre dos ciudades dadas. La implementación incluye:
+
+- **Inicialización de las distancias**: Se establece una distancia inicial infinita para todas las ciudades, excepto la de origen, que comienza en 0.
+- **Cola de prioridad**: Para procesar las ciudades de acuerdo con la distancia mínima conocida.
+- **Actualización de rutas**: Al procesar cada ciudad, se revisan y actualizan las distancias hacia sus vecinos si se encuentra un camino más corto.
+
+### Fragmento del código que muestra la lógica clave:
+```cpp
+std::priority_queue<std::pair<int, std::string>, std::vector<std::pair<int, std::string>>, std::greater<>> cola;
+cola.push({0, origen});
+
+while (!cola.empty()) {
+    auto [distanciaActual, ciudadActual] = cola.top();
+    cola.pop();
+
+    for (const auto& ruta : rutas.at(ciudadActual)) {
+        int nuevaDistancia = distanciaActual + ruta.getDistancia();
+        if (nuevaDistancia < distancias[vecino]) {
+            distancias[vecino] = nuevaDistancia;
+            predecesor[vecino] = ciudadActual;
+            cola.push({nuevaDistancia, vecino});
+        }
+    }
+}
+```
+Este método asegura que se obtenga la distancia más corta y el camino entre dos ciudades, respetando las restricciones del problema.
 
 # SICT0303: Implementa Acciones Científicas
 
